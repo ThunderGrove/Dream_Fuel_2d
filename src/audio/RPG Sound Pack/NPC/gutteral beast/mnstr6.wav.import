@@ -1,0 +1,21 @@
+[remap]
+
+importer="wav"
+type="AudioStreamSample"
+path="res://.import/mnstr6.wav-2cf6e2a35be2385aba9bea574d6adc49.sample"
+
+[deps]
+
+source_file="res://audio/RPG Sound Pack/NPC/gutteral beast/mnstr6.wav"
+dest_files=[ "res://.import/mnstr6.wav-2cf6e2a35be2385aba9bea574d6adc49.sample" ]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=true
+edit/normalize=true
+edit/loop=false
+compress/mode=0

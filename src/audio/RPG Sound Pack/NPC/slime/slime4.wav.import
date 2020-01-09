@@ -1,0 +1,21 @@
+[remap]
+
+importer="wav"
+type="AudioStreamSample"
+path="res://.import/slime4.wav-7054b0d85a3810361593d253aad9d49b.sample"
+
+[deps]
+
+source_file="res://audio/RPG Sound Pack/NPC/slime/slime4.wav"
+dest_files=[ "res://.import/slime4.wav-7054b0d85a3810361593d253aad9d49b.sample" ]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=true
+edit/normalize=true
+edit/loop=false
+compress/mode=0

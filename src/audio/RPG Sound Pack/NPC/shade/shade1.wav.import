@@ -1,0 +1,21 @@
+[remap]
+
+importer="wav"
+type="AudioStreamSample"
+path="res://.import/shade1.wav-2d6a1e31f50e7dad049de5219404e39c.sample"
+
+[deps]
+
+source_file="res://audio/RPG Sound Pack/NPC/shade/shade1.wav"
+dest_files=[ "res://.import/shade1.wav-2d6a1e31f50e7dad049de5219404e39c.sample" ]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=true
+edit/normalize=true
+edit/loop=false
+compress/mode=0

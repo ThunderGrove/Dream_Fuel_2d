@@ -1,0 +1,37 @@
+[gd_scene load_steps=6 format=2]
+
+[sub_resource type="DynamicFontData" id=1]
+font_path = "res://fonts/Arimo/Arimo-Regular.ttf"
+
+[sub_resource type="DynamicFont" id=2]
+font_data = SubResource( 1 )
+
+[sub_resource type="Theme" id=3]
+default_font = SubResource( 2 )
+
+[sub_resource type="DynamicFontData" id=4]
+font_path = "res://fonts/Arimo/Arimo-Regular.ttf"
+
+[sub_resource type="DynamicFont" id=5]
+font_data = SubResource( 4 )
+
+[node name="Game" type="Node2D"]
+
+[node name="Control" type="Control" parent="."]
+margin_right = 1920.0
+margin_bottom = 1080.0
+theme = SubResource( 3 )
+
+[node name="ColorRect" type="ColorRect" parent="Control"]
+margin_right = 1920.0
+margin_bottom = 1080.0
+color = Color( 0.2, 0.2, 0.2, 1 )
+
+[node name="ItemList" type="ItemList" parent="Control"]
+margin_left = 363.095
+margin_top = 307.47
+margin_right = 677.095
+margin_bottom = 572.47
+custom_fonts/font = SubResource( 5 )
+allow_reselect = true
+max_text_lines = 10

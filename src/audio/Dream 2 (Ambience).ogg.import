@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/Dream 2 (Ambience).ogg-57a7c6654ba61b8508849844331ca10c.oggstr"
+
+[deps]
+
+source_file="res://audio/Dream 2 (Ambience).ogg"
+dest_files=[ "res://.import/Dream 2 (Ambience).ogg-57a7c6654ba61b8508849844331ca10c.oggstr" ]
+
+[params]
+
+loop=true
+loop_offset=0

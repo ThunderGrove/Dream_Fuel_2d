@@ -138,7 +138,7 @@ func enemyAtk(eid):
 	$Background/tm4hp.text="HP: "+str(team[3]["hp"])
 	$Background/tm5hp.text="HP: "+str(team[4]["hp"])
 	var deadcounter=0
-	for i in range(team.size):
+	for i in range(team.size()):
 		if team[i]["hp"]<=0:
 			deadcounter+=1
 	if deadcounter==5:
